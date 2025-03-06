@@ -22,7 +22,7 @@ The Recommendation System Models will be built based on the Yelp Reviews Dataset
 
 ## Datasets and Data Dictionary
 
-The Dataset used for this Capstone Project comes from the Kaggle Yelp Dataset Challenge at: https://www.kaggle.com/yelp-dataset/yelp-dataset
+The Dataset used for this Capstone Project comes from the Kaggle Yelp Dataset Challenge at: https://business.yelp.com/data/resources/open-dataset/
 
 Data Dictionary for Yelp Reviews Dataset:
 
@@ -47,11 +47,9 @@ Data Dictionary for Yelp Reviews Dataset:
 4. Topic Modelling (LDA)
 5. Location-Based Recommendation System
 6. K-Means Clustering Algorithm
-7. Collaborative-Filtering Recommendation System
-8. Truncated Singular Value Decomposition
-9. Cosine Similarity
-10. Content-Based Recommendation System
-11. CountVectorizer
+7. Truncated Singular Value Decomposition
+8. Cosine Similarity
+9. CountVectorizer
 
 ## Contents:
 
@@ -59,6 +57,7 @@ Data Dictionary for Yelp Reviews Dataset:
 2. Part Two: EDA and Sentiment Analysis
 3. Part Three: Topic Modelling
 4. Part Four: Recommendation Systems
+5. CNN
 
 ## Conclusion and Limitations
 
